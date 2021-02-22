@@ -5,7 +5,7 @@
   "private": true,
   "devDependencies": {
     "npm-run-all": "^4.1.1",
-    "react-scripts": "1.0.7"
+    "react-scripts": "4.0.3"
   },
   "dependencies": {
     "dateformat": "^2.0.0",
